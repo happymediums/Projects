@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Projects</title>
+<title>The Big Bird Project</title>
 
 </head>
 
 <body>
 
-<h1>Here's somethings I prepared earlier...</h1>
+<h1>The Big Bird Project</h1>
 
 
 </body>
